@@ -1,4 +1,4 @@
-package co.unicauca.server;
+package co.unicauca.travelagencyserver;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
